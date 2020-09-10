@@ -3,7 +3,7 @@
   "private": true,
   "description": "A Static Portfolio site, designed for creative agencies",
   "version": "0.1.0",
-  "author": "Jacob Knaack",
+  "author": "ianseberg",
   "dependencies": {
     "@netlify/config": "^2.1.3",
     "babel-plugin-styled-components": "^1.10.0",

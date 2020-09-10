@@ -1,0 +1,3 @@
+[build]
+  command = "gatsby && gatsby build"
+  publish = "public"
